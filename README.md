@@ -1,2 +1,2 @@
 # desafio-dio-JavaScript
-Meu desafio de JavaScript DIO
+Meus desafios de JavaScript da DIO
